@@ -24,7 +24,7 @@ Perform exploratory data analysis on the Titanic dataset to discover key pattern
 - `Fare` is right-skewed; may need log transform later  
 - `Pclass` and `Fare` are negatively correlated
 
-- 
+  
 ## 🧩 How to Run
 1. Open `titanic_eda.ipynb` in Google Colab  
 2. Run all cells sequentially  
